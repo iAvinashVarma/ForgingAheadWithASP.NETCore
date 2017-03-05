@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 using ForgingAheadWithASP.NETCore.Models;
 
 namespace ForgingAheadWithASP.NETCore.Controllers

@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace ForgingAheadWithASP.NETCore.Models
+﻿namespace ForgingAheadWithASP.NETCore.Models
 {
-    public class Character
+	public class Character
     {
 		public string Name { get; set; }
 		public bool IsActive { get; set; }
