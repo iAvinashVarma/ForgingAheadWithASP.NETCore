@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/ForgingAheadWithASP.NETCore/obj/x64/Debug/net452
+/ForgingAheadWithASP.NETCore/obj/x64/Release/net452
+/ForgingAheadWithASP.NETCore/obj/x86/Debug/net452
+/ForgingAheadWithASP.NETCore/obj/x86/Release/net452
+/ForgingAheadWithASP.NETCore/obj/Release/net452
